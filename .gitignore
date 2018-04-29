@@ -56,4 +56,3 @@ buck-out/
 *.jsbundle
 
 src/config/dev.js
-src/config/dev.js
